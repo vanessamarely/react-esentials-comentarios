@@ -1,0 +1,11 @@
+.comments {
+    border: 1px solid;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.reply {
+    border: 1px solid tomato;
+    margin: 10px;
+    border-radius: 10px;  
+}
